@@ -10,7 +10,7 @@
     A Simple design of a E-Commerce Application.
     <br />
     <br />
-    <a target="_blank" href="shopify-gitesh152.netlify.app" >Live Preview</a>
+    <a target="_blank" href="https://shopify-gitesh152.netlify.app/" >Live Preview</a>
   </p>
 </div>
 
